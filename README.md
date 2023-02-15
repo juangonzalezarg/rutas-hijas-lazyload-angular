@@ -1,27 +1,67 @@
 # HeroesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.0.
+HeroesApp - Rutas hijas y Lazyload
 
-## Development server
+- Rutas Hijas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Rutas Principales
 
-## Code scaffolding
+- LazyLoad
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Multiples estilos en la misma SPA
 
-## Build
+Angular Material & Angular Flex-Layout
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- Angular Material
 
-## Running unit tests
+- Interfaces y tipado
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Pipes personalizados
 
-## Running end-to-end tests
+- Variables de entorno
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- Autocomplete de AngularMaterial
 
-## Further help
+- Peticiones HTTP
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- JSON-Server
+
+- Angular Flex y Flexbox
+
+CRUD
+
+- CRUD
+
+    - Create
+
+    - Read
+
+    - Update
+
+    - Delete
+
+- Pipes puros e impuros
+
+- Snacks
+
+- Dialogs
+
+- Inyección de servicios manualmente
+
+Protección de Rutas
+
+- Protección de rutas
+
+- Rutas privadas
+
+- Rutas públicas
+
+- Servicio de autenticación
+
+- Guards
+
+- CanActivate
+
+- Can Load
+
+- Mantener la sesión del usuario
